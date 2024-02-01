@@ -5,7 +5,7 @@
 👨‍💻 Currently diving into :
    - Feature Engineering
    - Time Series Forecasting
-   - Unsupervised Learning
+   - Supervised/Unsupervised Learning
 
 🛠️ Skills:
    - Python | Pandas | NumPy | scikit-learn | TensorFlow | Matplotlib | keras
