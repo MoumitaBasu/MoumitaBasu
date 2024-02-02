@@ -8,11 +8,12 @@
    - Supervised/Unsupervised Learning
 
 🛠️ Skills:
-   - Python | Pandas | NumPy | scikit-learn | TensorFlow | Matplotlib | keras
+   - Python | Pandas | NumPy | Scikit-learn | TensorFlow | Matplotlib | Keras
    - Data Analysis | Machine Learning | Deep Learning
    - SQL | NoSQL | Big Data Technologies
 
-📈 Check out my latest projects below and let's connect! Open to collaboration and discussions on all things AI and data science. 🤝
+📈 Check out my latest projects below and let's connect!
 https://github.com/MoumitaBasu/MachineLearningProjects
 
+Open to collaboration and discussions on all things AI and data science. 🤝
 📫 Reach me at: moumitabasu597@gmail.com
