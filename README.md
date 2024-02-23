@@ -2,16 +2,12 @@
 
 🔍 Exploring the depths of data and transforming it into actionable insights. My passion lies in leveraging machine learning to solve real-world problems and drive innovation.
 
-👨‍💻 Currently diving into :
-   - Langchain
-   - Baby-Agi
-   - Open and Generative AI
-
 🛠️ Skills:
-   - Python | Pandas | NumPy | Scikit-learn | TensorFlow | Matplotlib | Keras | NLP | LLM
-   - Data Analysis | Machine Learning | Deep Learning | Feature Engineering | Time Series Forecasting
+   - Python | Pandas | NumPy | Scikit-learn | TensorFlow | Matplotlib | Keras | RNN
+   - Data Analysis | Machine Learning | Feature Engineering | Time Series Forecasting
+   - Java | C | GIT | JIRA
    - Selenium | Pyautogui
-   - Java | SQL | NoSQL | Big Data Technologies
+   - Java | SQL | Redis | Big Data Technologies | Power BI
 
 📈 Check out my latest projects below and let's connect!
 https://github.com/MoumitaBasu/MachineLearningProjects
