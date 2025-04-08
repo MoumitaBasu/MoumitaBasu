@@ -42,7 +42,7 @@ Feel free to reach out or check out my work:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/moumitabasu97/)  
 - 🌐 [Portfolio](https://moumitabasu.github.io/portfolio/)  
-- 📧 [Email me here](moumitabasu597@gmail.com)
+- 📧 moumitabasu597@gmail.com
 
 ---
 
