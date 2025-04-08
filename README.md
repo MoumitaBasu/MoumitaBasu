@@ -10,7 +10,10 @@ Here are some of the things I've been working on:
 
 - 🎨 [Portfolio Website](https://moumitabasu.github.io/portfolio/) – Personal portfolio with work and contact info.
 - 🤖 [AI Projects](https://github.com/MoumitaBasu/faq-chatbot) – FAQ chatbot built using FastAPI and OpenAI.
-- 🧠 [ML Projects](https://github.com/MoumitaBasu/MachineLearningProjects) – Projects like Diabetes Prediction, Lyrics Generator, MBTI Personality Prediction.
+- 🧠 [ML Projects](https://github.com/MoumitaBasu/MachineLearningProjects) – Collection of machine learning projects:
+  - 🩺 [Diabetes Prediction](https://github.com/MoumitaBasu/MachineLearningProjects/tree/main/Diabetes%20Prediction) – Predicts diabetes risk using health data.
+  - 🎵 [Lyrics Generator](https://github.com/MoumitaBasu/MachineLearningProjects/tree/main/Lyrics%20Generator) – Generates song lyrics with LSTM networks.
+  - 🧬 [MBTI Personality Prediction](https://github.com/MoumitaBasu/MachineLearningProjects/tree/main/Personality%20Prediction) – NLP-based prediction of personality types.
 - 👁️ [Computer Vision Project](https://github.com/MoumitaBasu/Computer-Vision) - OCR App using Streamlit and Flask.
 
 ---
