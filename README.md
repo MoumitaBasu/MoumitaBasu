@@ -20,11 +20,11 @@ Here are some of the things I've been working on:
 
 ## 📖 Study Materials
 
-Some resources and notes I frequently refer to:
+Some resources and notes for mastering web development:
 
 - 📦 [Springboot Learning Path](https://www.youtube.com/playlist?list=PLA3GkZPtsafacdBLdd3p1DyRd5FGfr3Ue) – My roadmap for learning JAVA Springboot from scratch.
 - ⚡ [FastAPI for begineers](https://youtu.be/cbASjoZZGIw?si=6W3ZyxNMGSDwIZIW) – A small handson project from scratch teaching you the basics.
-- 🛢️ [SQL Tutorial](https://www.sqlzoo.net/wiki/SQL_Tutorial) – When you need to brush up your basics/practice to ace that interview or exam.
+- 🛢️ [SQL Tutorial](https://www.sqlzoo.net/wiki/SQL_Tutorial) – Learn the basics of SQL from scratch with practice examples.
 
 ---
 
