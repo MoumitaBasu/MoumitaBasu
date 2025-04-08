@@ -19,9 +19,9 @@ Here are some of the things I've been working on:
 
 Some resources and notes I frequently refer to:
 
-- 🛤️ [Springboot Learning Path](https://www.youtube.com/playlist?list=PLA3GkZPtsafacdBLdd3p1DyRd5FGfr3Ue) – My roadmap for learning JAVA Springboot from scratch.
-- ⚛️ [FastAPI for begineers](https://youtu.be/cbASjoZZGIw?si=6W3ZyxNMGSDwIZIW) – A small handson project from scratch teaching you the basics.
-- 📚 [SQL Tutorial](https://www.sqlzoo.net/wiki/SQL_Tutorial) – When you need to brush up your basics/practice to ace that interview or exam.
+- 📦 [Springboot Learning Path](https://www.youtube.com/playlist?list=PLA3GkZPtsafacdBLdd3p1DyRd5FGfr3Ue) – My roadmap for learning JAVA Springboot from scratch.
+- ⚡ [FastAPI for begineers](https://youtu.be/cbASjoZZGIw?si=6W3ZyxNMGSDwIZIW) – A small handson project from scratch teaching you the basics.
+- 🛢️ [SQL Tutorial](https://www.sqlzoo.net/wiki/SQL_Tutorial) – When you need to brush up your basics/practice to ace that interview or exam.
 
 ---
 
