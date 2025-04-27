@@ -9,7 +9,11 @@ Welcome to my GitHub frontpage — a curated space where I showcase my projects,
 Here are some of the things I've been working on:
 
 - 🎨 [Portfolio Website](https://moumitabasu.github.io/portfolio/) – Personal portfolio with work and contact info.
-- 🤖 [AI Projects](https://github.com/MoumitaBasu/faq-chatbot) – FAQ chatbot built using FastAPI and OpenAI.
+- 🤖 [AI Projects](https://github.com/MoumitaBasu/AI-Projects/tree/master) – FAQ chatbot built using FastAPI and OpenAI.
+  - 🎧 [OmniConvert App](https://github.com/MoumitaBasu/AI-Projects/tree/master/OmniConvert) - An all-in-one media converter for audio, text, images, and video.
+  - 📚 [Course Generator App*](https://github.com/MoumitaBasu/AI-Projects/tree/master/course-generator) - A web-based app for generating personalized course outlines using GPT-4.
+  - 🤖 [FAQ Chatbot with OpenAI & FastAPI](https://github.com/MoumitaBasu/AI-Projects/tree/master/faq-chatbot) - A chatbot that answers FAQs with OpenAI GPT-3.5 and stores conversation history.
+  - 🎁 [E-commerce Gift Recommendation System](https://github.com/MoumitaBasu/AI-Projects/tree/master/gift-recommender) - AI-powered system for personalized gift recommendations based on user preferences.
 - 🧠 [ML Projects](https://github.com/MoumitaBasu/MachineLearningProjects) – Collection of machine learning projects:
   - 🩺 [Diabetes Prediction](https://github.com/MoumitaBasu/MachineLearningProjects/tree/main/Diabetes%20Prediction) – Predicts diabetes risk using health data.
   - 🎵 [Lyrics Generator](https://github.com/MoumitaBasu/MachineLearningProjects/tree/main/Lyrics%20Generator) – Generates song lyrics with LSTM networks.
