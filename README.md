@@ -1,7 +1,7 @@
-# 👋 Hi there, I'm Moumita Basu!
+# 👋 Hi there, I'm Moumita!
 **Full-Stack Developer | AI/ML Engineer | Building data-efficient, interpretable AI solutions**
 
-Welcome to my GitHub—where I build AI systems that **work with real-world constraints** (limited data, need for transparency, immediate deployment).
+Welcome to my GitHub where I build AI systems that **work with real-world constraints** (limited data, need for transparency, immediate deployment).
 
 ---
 
@@ -21,6 +21,21 @@ A production-grade quality inspection system demonstrating **interpretable ML wi
 
 **Tech Stack:** Python, PyTorch, Streamlit, LLMs (OpenAI/Claude/Gemini), scikit-image  
 **Real-world Impact:** Shows how to build AI for agricultural & manufacturing quality control when data is scarce
+
+### 🔬 Research Paper Discovery AI — _Intelligent RAG for Academic Analysis_
+** [Repository](https://github.com/MoumitaBasu/research_paper_discovery) | [Live Demo](https://research-paper-discovery.streamlit.app/) **
+
+A production-grade RAG pipeline designed for deep analysis of academic research. This tool bridges the gap between raw PDF data and actionable insights using a sophisticated hybrid retrieval architecture.
+
+**What makes this special:**
+- ✅ **Hybrid Retrieval** — Combines FAISS semantic search with BM25 keyword matching for maximum recall.
+- ✅ **Cross-Encoder Reranking** — Prioritizes the most relevant paper segments using `ms-marco-MiniLM` to ensure high-quality context.
+- ✅ **Dual AI Engine** — Flexibility between local `Flan-T5` for privacy and `Gemini 1.5 Flash` for high-reasoning synthesis.
+- ✅ **Metadata Anchoring** — Enforces strict grounding in paper Abstracts and Titles to minimize hallucinations.
+- ✅ **Optimized Workflow** — Features parse-and-purge memory management and adaptive context windowing.
+
+**Tech Stack:** Python, Streamlit, Google Gemini 1.5, FAISS, BAAI Embeddings, PyMuPDF4LLM   
+**Real-world Impact:** A powerful, privacy-focused RAG pipeline that bridges the gap between raw research PDFs and actionable scientific insights using hybrid search and dual AI engines.
 
 ---
 
