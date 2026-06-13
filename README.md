@@ -23,7 +23,7 @@ A production-grade quality inspection system demonstrating **interpretable ML wi
 **Real-world Impact:** Shows how to build AI for agricultural & manufacturing quality control when data is scarce
 
 ### 🔬 Research Paper Discovery AI — _Intelligent RAG for Academic Analysis_
-** [Repository](https://github.com/MoumitaBasu/research_paper_discovery) | [Live Demo](https://research-paper-discovery.streamlit.app/) **
+**[Repository](https://github.com/MoumitaBasu/research_paper_discovery) | [Live Demo](https://research-paper-discovery.streamlit.app/)**
 
 A production-grade RAG pipeline designed for deep analysis of academic research. This tool bridges the gap between raw PDF data and actionable insights using a sophisticated hybrid retrieval architecture.
 
